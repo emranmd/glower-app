@@ -1,0 +1,182 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+    .footer_fixed_submitBtn {
+        left: 11%;
+    }
+    
+}
+@media (min-width: 300px) and (max-width: 480px) {
+  
+    .dz_meta {
+        gap: 9px;
+    }
+    .footer_fixed_submitBtn {
+        left: 0;
+    }
+    .card_details .name_number .number {
+        font-size: 17px;
+    }
+    .card_wrap .card_details {
+        margin-top: 20px;
+    }
+    .card_details .name_number .name {
+        margin: 12px 0 0 0;
+    }
+    .wishlist_item_box .dz_content .dz_price p {
+        font-size: 15px;
+    }
+    .wishlist_item_box .dz_content .dz_price del {
+        font-size: 11px;
+    }
+    .wishlist_item_box .info_btn {
+        bottom: 3px;
+        right: 3px;
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+    .dz_content .dz_status {
+        font-size: 14px;
+    }
+    .dz_content .dz_offer {
+        font-size: 15px;
+    }
+    .order_tab_btn {
+        left: 0;
+    }
+    .remove_text {
+        font-size: 14px;
+    }
+    .wishlist_item_box .cart_btn {
+        width: 40px;
+        height: 40px;
+    }
+    .delivery_timeline {
+        width: 290px;
+        min-width: 290px;
+    }
+    .delivery_timeline .timeline_items {
+        gap: 12px;
+    }
+    .category_items .text {
+        margin-top: 3px;
+        text-align: center;
+    }
+    .category_items .text a {
+        font-size: 15px;
+    }
+    .recent_product_items .items_box .content h6 a {
+        font-size: 14px;
+    }
+    .items_card .content h6 a {
+        font-size: 16px;
+    }
+    .items_card .content .price p {
+        font-size: 16px;
+    }
+    .items_card .content .offer {
+        font-weight: 500;
+        font-size: 14px;
+        color: #009d77;
+    }
+    .items_card .images_box img {
+        object-fit: scale-down;
+    }
+    .items_card .images_box {
+        max-width: 90px;
+        width: 90px;
+    }
+    .dz_items_card .status h6 {
+        font-size: 13px;
+    }
+    .dz_items_card .dz_meta {
+        gap: 7px;
+    }
+    .dz_items_card .images_box {
+        width: 100%;
+        margin: auto;
+    }
+    .container {
+        padding-right: 8px;
+        padding-left: 8px;
+    }
+    .your_cart_items {
+        padding: 20px 10px;
+    }
+    .items_details .dz_price p {
+        font-size: 15px;
+    }
+    .items_details .dz_meta {
+        gap: 2px;
+    }
+    .dz_items .items_details {
+        gap: 10px;
+    }
+    .offer_banner_are .banner_box{
+        width: 8% !important;
+    }
+    .dz_product_filter .filter_link i{
+        margin-right: 0;
+    }
+    .dz_product_filter li {
+        padding: 5px 12px;
+    }
+    .account_section {
+        padding: 0 10px;
+    }
+    .account_section .title {
+        letter-spacing: .1px;
+        font-size: 18px;
+    }
+    .dz_media_box .dz_title {
+        top: 10px;
+        left: 10px;
+        font-size: 30px;
+    }
+    .card_wrap {
+        width: 47% !important;
+        padding: 18px;
+    }
+    .card_header .card_logo img {
+        width: 40px;
+        height: auto;
+        margin-right: 5px;
+    }
+    .page_content .card_box {
+        margin-left: auto;
+        margin-right: auto;
+        width: 100% !important;
+    }
+    .modal_top_bars h4 {
+        font-size: 20px;
+    }
+    .main_language_area {
+        margin: 15px;
+        width: 90%;
+        overflow-x: scroll;
+        height: 100%;
+    }
+    .main_language_area::-webkit-scrollbar{
+        display: none;
+    }
+    .cart_btn_style {
+        font-size: 16px;
+    }
+    .banner_images img {
+        min-height: auto;
+    }
+    .offcanvas_section .offcanvas_content_wrap {
+        overflow-y: scroll;
+        max-height: 100%;
+    }
+    .offcanvas_content_wrap::-webkit-scrollbar{
+        display: none;
+    }
+    .offcanvas_body_content .checkBox_form {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    
+
+
+}
